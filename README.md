@@ -1,0 +1,2 @@
+Kafka metric reporter for producers and consumers. It takes metrics and writes to a kafka topic with influxdb line format
+Some of the code has been copied from https://github.com/linkedin/cruise-control 
